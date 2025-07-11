@@ -205,7 +205,7 @@ main{
 /* Let’s Get in Touch */
 .touch-container {
   margin-top: 60px;
-  padding: 40px;
+  padding: 40px 0px;
   display: flex;
   justify-content: space-between;
 }
